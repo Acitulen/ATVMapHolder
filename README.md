@@ -2,7 +2,7 @@
 #### This mod allows you to attach digital map to the ATV.
 
 ## Preview
-![Preview](https://github.com/Acitulen/ATVMapHolder/blob/main/ATVMapHolderPreview.mp4?raw=true)
+![Preview](https://github.com/Acitulen/ATVMapHolder/blob/main/ATVMapHolderPreview.gif?raw=true)
 
 ## Features
 - Displays the player's direction.
