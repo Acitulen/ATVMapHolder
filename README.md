@@ -1,15 +1,15 @@
 # **ATVMapHolder**
-#### This mod allows you to attach digital map to the ATV.
+#### This mod adds map holders that allow you to attach digital map to the ATV.
 
 ## Preview
-![Preview](https://github.com/Acitulen/ATVMapHolder/blob/main/ATVMapHolderPreview.gif?raw=true)
+![Preview](https://github.com/Acitulen/ATVMapHolder/blob/main/ATVMapHolderPreview.png?raw=true)
 
 ## Features
-- Displays the player's direction.
-- Displays entities.
-- Different colors of the radar blips. (radar colors module required).
-- Different entity scanning speed. (according to radar speed module upgrade).
-- Customizable map elements.
+- Map holders can be ordered through the in-game shop in tools section.
+- Map holders can be attached to an ATV with a touch and detached by grabbing.
+- Digital map can be attached to map holders with a touch and detached by grabbing.  
+*They can be attached and detatched in any order.
+- Map holders are compatible with both original and modded digital map v2.
 
 ## Manual instalation guide.
 
@@ -28,14 +28,6 @@
 </details>
 
 <details>
-<summary>Install VoidMod-2.0.0</summary>
-
-1. Copy `VoidMod2.pak` from the pak floader to `GAME/Content/Paks/LogicMods` directory. 
-</details>
-
-<details>
-
-<details>
 <summary>Install Fusion</summary>
 
 1. Copy `everything (except mod floader)` from the archive to `GAME/Binaries/Win64/Mods/NynrahGhost-Fusion` directory.  
@@ -45,11 +37,10 @@
 4. Make an empty `mods.yml` file in `GAME/Bina` directory.
 5. Run `Fusion.exe` from `GAME/Binaries/Win64/Mods/NynrahGhost-Fusion` directory.
 </details>
+<details>
 
 <summary>Install ATVMapHolder</summary>
 
 1. Copy `ATVMapHolder.pak` from the `pak` floader to `GAME/Content/Paks/LogicMods` directory. 
-2. Copy the contents of the `mod` folder in `GAME/Binaries/Win64/Mods/Acitulen-ATVMapHolder` directory.
-*you have to create 'Acitulen-ATVMapHolder' floader manually.
-3. Run `Fusion.exe` from `GAME/Binaries/Win64/Mods/NynrahGhost-Fusion` directory.
+2. Run `Fusion.exe` from `GAME/Binaries/Win64/Mods/NynrahGhost-Fusion` directory.
 </details>
