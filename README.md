@@ -6,7 +6,7 @@ This mod adds map holders that allow you to attach digital map to the ATV.
 If you have any suggestions or find a bug, you can submit it as an "issue" in my [GitHub repository](https://github.com/Acitulen/ATVMapHolder).
 
 ## Preview
-![Preview](https://github.com/Acitulen/ATVMapHolder/blob/2.0.1/Preview1.png?raw=true)
+![Preview](https://github.com/Acitulen/ATVMapHolder/blob/2.0.1/Preview/Preview1.png?raw=true)
 
 ## Features
 - Map holders can be ordered through the in-game shop in tools section.
